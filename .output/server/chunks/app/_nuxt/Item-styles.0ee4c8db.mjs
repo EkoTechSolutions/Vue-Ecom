@@ -1,0 +1,6 @@
+const Item_vue_vue_type_style_index_0_scoped_b510fda2_lang = '.remove-btn[data-v-b510fda2]{border-radius:50%;content:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAC6SURBVEhL7ZbLCoMwEEWzErrqJ9fPqz+VdC7cAY1hGnUYKc0BUedxjys1DQb/Ryll4mU3Z3Y25Jxfcrwl6MnSVzCLHeyydAxZfFBaeuUq1R1ksHWMKmjBPVs7OIuZ7gc1YaAp54yfVKmCN3Kr50JL0Kpx3JdaFCJVIFAhCJECSMLFEKgU5/U1ehzzBcG1qFXjuA+WwOpdgsGxLxAGmlKFs9flsnzrR2LulSor+czSOSQg/kdgMPhBUvoAfyP6eJc6pZ4AAAAASUVORK5CYII=")}.remove-btn[data-v-b510fda2] :hover{background-color:grey}';
+
+const ItemStyles_0ee4c8db = [Item_vue_vue_type_style_index_0_scoped_b510fda2_lang];
+
+export { ItemStyles_0ee4c8db as default };
+//# sourceMappingURL=Item-styles.0ee4c8db.mjs.map
